@@ -10,5 +10,7 @@ This website is designed to provide information about the campaign for the stude
 - Vite Framework
 
 ## Website Domain
-You can visit the website on [cr-feup.pt](https://www.cr-feup.pt/)
+You can visit the website at [cr-feup.pt](https://www.cr-feup.pt/)
 
+## All design and social Posts
+You can see all our work at [figma-ListaA]("https://www.figma.com/design/SJj6K73fGzFGMT9qNTUKn5/Lista-A?node-id=0-1&t=Li5vaiqgnAUiXihI-1")
